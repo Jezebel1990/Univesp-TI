@@ -1,2 +1,2 @@
 # Univesp-TI
-Exercicios-Java
+Exercicios
